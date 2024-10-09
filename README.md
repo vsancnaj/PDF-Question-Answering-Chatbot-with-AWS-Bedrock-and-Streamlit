@@ -2,6 +2,15 @@
 
 This project is a multi-language chatbot built with AWS Bedrock and Streamlit. It allows users to upload a PDF document, ask questions about its content in their chosen language, and receive responses based on the content. The project leverages state-of-the-art language models and integrates translation functionality, making it useful for multilingual environments.
 
+
+
+
+https://github.com/user-attachments/assets/f675f6c1-1ca3-4855-96a3-5f9b4fa5db72
+
+
+
+
+
 ### Project Technologies Breakdown
 
 #### 1. **AWS Bedrock**
